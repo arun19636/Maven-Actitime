@@ -10,6 +10,7 @@ import com.actitime.pom.ActitimeLoginPage;
 @Listeners(com.actitime.generics.Screenshot.class)
 public class ActitimeLoginLogout extends BaseTest
 {
+	
 	@Test
 	public void loginlogout() throws InterruptedException, IOException
 	{
